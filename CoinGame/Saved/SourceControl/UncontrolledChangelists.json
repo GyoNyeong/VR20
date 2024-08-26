@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/game/CoinGame/Content/LEVEL/NewMap.umap",
+				"C:/game/CoinGame/Content/Actor/BP_Red.uasset",
+				"C:/game/CoinGame/Content/Actor/BP_LeftRight.uasset",
+				"C:/game/CoinGame/Content/Actor/SM_Coin.uasset",
+				"C:/game/CoinGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/game/CoinGame/Content/StarterContent/Props/SM_Chair.uasset",
+				"C:/game/CoinGame/Content/Actor/BP_Coin.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/BasicShapes/Cube.uasset",
+				"C:/game/CoinGame/Content/Actor/BP_Switch.uasset",
+				"C:/game/CoinGame/Content/BP_CoinInstance.uasset",
+				"C:/game/CoinGame/Content/Actor/WBP_CoinGame.uasset",
+				"C:/game/CoinGame/Content/Actor/BP_CoinHud.uasset",
+				"C:/game/CoinGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/game/CoinGame/Content/Actor/BP_MoveRect.uasset",
+				"C:/game/CoinGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/game/CoinGame/Content/Actor/EM_MoveType.uasset",
+				"C:/game/CoinGame/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/game/CoinGame/Content/Actor/NewVariableFrameStrippingSettings.uasset",
+				"C:/game/CoinGame/Content/NewMap.umap",
+				"C:/game/CoinGame/Content/Actor/BP_Portal.uasset",
+				"C:/game/CoinGame/Content/Actor/BP_CoinGameState.uasset",
+				"C:/game/CoinGame/Content/CoinStage_2.umap",
+				"C:/game/CoinGame/Content/NewMap1.umap"
+			]
+		}
+	]
+}
