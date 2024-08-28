@@ -27,7 +27,13 @@
 				"C:/game/CoinGame/Content/Actor/BP_Portal.uasset",
 				"C:/game/CoinGame/Content/Actor/BP_CoinGameState.uasset",
 				"C:/game/CoinGame/Content/CoinStage_2.umap",
-				"C:/game/CoinGame/Content/NewMap1.umap"
+				"C:/game/CoinGame/Content/NewMap1.umap",
+				"C:/game/CoinGame/Content/CoinStage_3.umap",
+				"C:/game/CoinGame/Content/P_Level.umap",
+				"C:/game/CoinGame/Content/CoinStage_1.umap",
+				"C:/game/CoinGame/Content/Actor/BP_Ball.uasset",
+				"C:/game/CoinGame/Content/Actor/BP_Spawner.uasset",
+				"C:/game/CoinGame/Content/Actor/BP_Timer.uasset"
 			]
 		}
 	]
