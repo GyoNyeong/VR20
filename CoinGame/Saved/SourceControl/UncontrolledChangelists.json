@@ -33,7 +33,26 @@
 				"C:/game/CoinGame/Content/CoinStage_1.umap",
 				"C:/game/CoinGame/Content/Actor/BP_Ball.uasset",
 				"C:/game/CoinGame/Content/Actor/BP_Spawner.uasset",
-				"C:/game/CoinGame/Content/Actor/BP_Timer.uasset"
+				"C:/game/CoinGame/Content/Actor/BP_Timer.uasset",
+				"C:/game/CoinGame/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/game/CoinGame/Content/Ai/BP_AiController.uasset",
+				"C:/game/CoinGame/Content/Ai/BP_AiCharacter.uasset",
+				"C:/game/CoinGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/YQ/GAZXIZTFNWW2V2ASVUEDTF.uasset",
+				"C:/game/CoinGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Z8/5HC0QLDF55QS7TV4WFQ7KS.uasset",
+				"C:/game/CoinGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/XZ/R5DLWW3H2GVO9WWN4A57DE.uasset",
+				"C:/game/CoinGame/Content/Ai/BT_Ai.uasset",
+				"C:/game/CoinGame/Content/Ai/Tasks/BP_TaskFindPlayer0.uasset",
+				"C:/game/CoinGame/Content/Ai/BB_Ai.uasset",
+				"C:/game/CoinGame/Content/Ai/BP_PatrolPathPoint.uasset",
+				"C:/game/CoinGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/game/CoinGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/EV/BK0GU2VOKQRZDVBPKSD2SC.uasset",
+				"C:/game/CoinGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/HL/PP18LUQKC3GSEMFVX2HPNG.uasset",
+				"C:/game/CoinGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WG/BMT80GXGTEALLJZB0K8MQP.uasset",
+				"C:/game/CoinGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PC/YL1GF6P0VVKXZ5SMM7XQHE.uasset",
+				"C:/game/CoinGame/Content/Ai/AiBehavior.uasset",
+				"C:/game/CoinGame/Content/Ai/Tasks/BTTask_Patrol.uasset",
+				"C:/game/CoinGame/Content/BP_AiContorller.uasset",
+				"C:/game/CoinGame/Content/BP_AiController.uasset"
 			]
 		}
 	]
