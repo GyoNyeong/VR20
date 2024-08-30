@@ -51,6 +51,15 @@
 				"C:/game/CoinGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PC/YL1GF6P0VVKXZ5SMM7XQHE.uasset",
 				"C:/game/CoinGame/Content/Ai/AiBehavior.uasset",
 				"C:/game/CoinGame/Content/Ai/Tasks/BTTask_Patrol.uasset",
+				"C:/game/CoinGame/Content/Ai/Tasks/BTTask_AiCanAttack.uasset",
+				"C:/game/CoinGame/Content/Characters/Mannequins/Animations/AttackAnimations/Anim_Attack.uasset",
+				"C:/game/CoinGame/Content/Characters/Mannequins/Animations/AttackAnimations/Anim_Attack_Montage.uasset",
+				"C:/game/CoinGame/Content/Characters/Mannequins/Animations/AttackAnimations/Anim_ComboAttack.uasset",
+				"C:/game/CoinGame/Content/Characters/Mannequins/Animations/AttackAnimations/Anim_ComboAttack_Montage.uasset",
+				"C:/game/CoinGame/Content/Characters/Mannequins/Animations/AttackAnimations/Anim_ShortAttack.uasset",
+				"C:/game/CoinGame/Content/Characters/Mannequins/Animations/AttackAnimations/Anim_ShortAttack_Montage.uasset",
+				"C:/game/CoinGame/Content/Ai/En_AiStates.uasset",
+				"C:/game/CoinGame/Content/Ai/BTTask_IsCannotAttack.uasset",
 				"C:/game/CoinGame/Content/BP_AiContorller.uasset",
 				"C:/game/CoinGame/Content/BP_AiController.uasset"
 			]
